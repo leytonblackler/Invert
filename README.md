@@ -3,3 +3,5 @@
 ### About
 
 INVERT is a minimalistic 2D arcade game written in the Java based programming language Processing 3.
+
+All sound effects and music are used with permission.
